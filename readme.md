@@ -1,10 +1,6 @@
 # Global Entry Interview Openings Checker
 
-Scheduling an interview for your Global Entry application is hard. Some enrollment centers are months out. But they tend to sneakily add slots in the near future. This script will alert you when that happens.
-
-This script uses the new (2017-10) but undocumented API at `https://ttp.cbp.dhs.gov/schedulerapi/slots/asLocations` to inform you of Global Entry interview openings.
-
-*There is [another project](https://github.com/oliversong/goes-notifier) on GitHub that used to accomplish the same thing, but the new DHS web site broke it. I found it only after I got this thing working, so I thought I'd post this anyway for whomever may benefit from it.*
+This program is a modified fork of:
 
 ## Setup
 
